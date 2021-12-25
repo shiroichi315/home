@@ -13,7 +13,7 @@ highlight_theme = "demain"
 build_search_index = false
 
 title = "Shiroichi's Diary"
-description = "A simple dev blog theme with no javascript, prerendered linked pages and SEO tags."
+description = "ソフトウェアエンジニアの日常。猫とサウナとつけ麺が好き"
 
 generate_feed = true
 
