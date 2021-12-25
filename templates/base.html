@@ -126,7 +126,7 @@
   <body>
     {% block header %}
       <header>
-        <a class="profile-icon" href="/">
+        <a class="profile-icon" href="{{ get_url(path="/") }}">
           <img src="{{ icon.url }}" alt="profile picture">
         </a>
         <nav>
