@@ -1,5 +1,5 @@
 +++
-title = "2021年の振り返り・2022年の抱負"
+title = "2021年の振り返り（技術寄り）"
 [taxonomies]
 tags = [ "retrospective" ]
 +++
