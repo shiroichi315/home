@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://shiroichi315.github.io/diary"
+base_url = "https://shiroichi315.github.io/home"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -13,7 +13,7 @@ highlight_theme = "demain"
 build_search_index = false
 
 title = "Shiroichi's Diary"
-description = "ソフトウェアエンジニアの日常。猫とサウナとつけ麺が好き"
+description = "ソフトウェアエンジニアの日常。猫とボルダリングとサウナが好き"
 
 generate_feed = true
 
@@ -26,7 +26,7 @@ taxonomies = [
 dark_mode = false
 
 nav = [
-  { name = "Diary", path = "/" },
+  { name = "Diary", path = "/diary/" },
   { name = "About", path = "/about/" }
 ]
 

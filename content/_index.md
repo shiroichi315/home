@@ -1,7 +1,6 @@
 +++
-template = "diary.html"
-page_template = "diary-post.html"
-sort_by = "date"
+template = "index.html"
 +++
 
-## Shiroichi's Diary
+## Shiroichi's Home
+

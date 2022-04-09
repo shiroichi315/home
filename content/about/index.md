@@ -1,8 +1,10 @@
 +++
-template="about.html"
+template="simple-page.html"
 +++
 
-## Kushiro Taichi @shiroichi315
+## About
+
+### Kushiro Taichi @shiroichi315
 
 Scala | DDD | Agile | FP | at Alp,Inc.
 
