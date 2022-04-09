@@ -46,7 +46,7 @@ A simple dev-blog theme created by Bennett. You can follow him on [Github](https
 """
 
 footer_page = """
-© 2021, all rights reserved
+© 2022, all rights reserved
 """
 
 not_found_message = """
