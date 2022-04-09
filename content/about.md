@@ -2,7 +2,7 @@
 template="page.html"
 +++
 
-## Kushiro Taichi @shiroichi315
+## Kushiro Taichi shiroichi315
 
 Scala | DDD | Agile | FP | at Alp,Inc.
 
