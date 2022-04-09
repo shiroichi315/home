@@ -3,6 +3,11 @@
 {% block content %}
   {{ section.content | safe }}
 
+  {% set cover = resize_image(path=config.extra.cover, width=2000, height=700, op="fill") %}
+  <img src="{{ cover.url }}" alt="cover">
+
+  <h2>Shiroichi's Home</h2>
+
   {% for link in config.extra.nav %}
     <div>
       <a href="{{ config.base_url }}{{ link.path }}">{{ link.name }}</a>
