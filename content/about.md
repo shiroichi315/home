@@ -1,5 +1,5 @@
 +++
-template="page.html"
+template="about.html"
 +++
 
 ## Kushiro Taichi @shiroichi315
