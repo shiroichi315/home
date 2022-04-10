@@ -12,7 +12,7 @@ highlight_theme = "demain"
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-title = "Shiroichi's Home"
+title = "Shiroichi's Diary"
 description = "ソフトウェアエンジニア。猫とボルダリングとサウナが好き"
 
 generate_feed = true
