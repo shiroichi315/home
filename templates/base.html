@@ -96,7 +96,7 @@
     {% endblock description %}
 
     {% if page.title %}
-      <meta name="twitter:title" content="{{ page.title }}">
+      <meta name="twitter:title" content="{{ config.title }} - {{ page.title }}">
     {% else %}
       <meta name="twitter:title" content="{{ config.title }}">
     {% endif %}
@@ -113,7 +113,7 @@
     <title>
       {% block title %}
         {% if page.title %}
-          {{ page.title }}
+          {{ config.title }} - {{ page.title }}
         {% else %}
           {{ config.title }}
         {% endif %}
