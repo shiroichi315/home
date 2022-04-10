@@ -13,6 +13,7 @@ highlight_theme = "demain"
 build_search_index = false
 
 title = "Shiroichi's Home"
+description = "ソフトウェアエンジニア。猫とボルダリングとサウナが好き"
 
 generate_feed = true
 

@@ -10,6 +10,8 @@ Scala | DDD | Agile | FP | at Alp,Inc.
 
 Date of Birth: 1997-03-15
 
+<!-- more -->
+
 <div>
    <a href="https://github.com/shiroichi315" rel="noopener" target="_blank">
    <i class="fab fa-github"></i> Github
