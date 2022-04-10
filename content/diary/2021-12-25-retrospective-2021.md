@@ -2,8 +2,6 @@
 title = "2021年の振り返り（技術寄り）"
 [taxonomies]
 tags = [ "Poem" ]
-[extra]
-static_thumbnail = "cover.jpeg"
 +++
 
 # はじめに
