@@ -12,7 +12,7 @@ tags = [ "Poem" ]
 
 整理した結果は以下のようになった。
 
-![](organized-my-skills.png)
+![](../organized-my-skills.png)
 
 ## やってみて思ったこと
 
